@@ -1,8 +1,5 @@
 # Customer Segmentation using Unsupervised Machine Learning
 
-![Python](https://shields.io)
-![Scikit-Learn](https://shields.io)
-![License](https://shields.io)
 
 ## 📌 Project Overview
 This project applies unsupervised machine learning techniques to segment retail mall customers based on their annual income and spending behaviors. By identifying distinct customer personas, businesses can design targeted marketing strategies, optimize promotional campaigns, and improve overall customer retention.
